@@ -1,0 +1,6 @@
+.card-body-stars.u-clearfix {
+  display: flex;
+  justify-content: center;
+  
+  list-style: none;
+}
